@@ -1,0 +1,3 @@
+https://www.codeproject.com/Articles/1133646/project-in-Repository-Design-Pattern-with-the-comb
+
+https://www.codeproject.com/Articles/990492/RESTful-Day-sharp-Enterprise-Level-Application
